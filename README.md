@@ -1,5 +1,6 @@
-1. Ensure you have Node
-   ```bash npm install
+1. Ensure you have Node ,if not
+   ```bash
+   npm install
    ```
 
 ## Add Tailwind
