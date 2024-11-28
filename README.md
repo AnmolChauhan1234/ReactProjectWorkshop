@@ -1,4 +1,4 @@
-1. Ensure you have Node ,if not
+1. Ensure you have Node ,Then
    ```bash
    npm install
    ```
